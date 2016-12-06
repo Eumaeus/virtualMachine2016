@@ -1,8 +1,8 @@
-# Homer Multitext CITE/CTS: virtualMachine2016
+# CITE/CTS for Cyber-Physical Systems
 
 A Vagrant virtual machine for running CITE/CTS services for identification and retrieval of textual, image, and other data by means of machine-actional URN citations. The VM runs Ubuntu-server/trusty, 64-bit version. This VM offers a testbed for the [Homer Multitext](http://homermultitext.org)'s implementation of CTS, which is a Java based servlet using an RDF database as a back-end.
 
-There are other implementations of CTS, notably the [Capitains/Toolkit](https://libraries.io/github/Capitains/Toolkit) by Thibault Clérice of the University of Leipzig.  
+**N.b.** The instructions below will change. (December 5, 2016)
 
 ## About CITE/CTS
 
